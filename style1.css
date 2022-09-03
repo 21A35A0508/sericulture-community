@@ -1,0 +1,13 @@
+html {
+    scroll-behavior: smooth;
+  }
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  .background{
+    background: url("C:\Users\mulla\OneDrive\Pictures\silkworm.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  opacity: 0.5;
+  }
